@@ -8,6 +8,25 @@
 
 Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on Large Language Models and exploring the boundaries and limits of Generative AI.
 
+The is the official project of our survey: [Beyond Benchmark: LLMs Evaluation with an Anthropomorphic and Value-oriented Roadmap](arxiv.org/abs/2508.18646). 
+
+**NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and the paper may be updated later. We also welcome any pull request or issues to help us improve this work. Your contributions will be acknowledged in <a href="#acknowledgements">acknowledgements</a>.
+
+If you find our survey useful, please kindly cite our paper:
+
+```bibtex
+@misc{wang2025llmevalroadmap,
+      title={Beyond Benchmark: LLMs Evaluation with an Anthropomorphic and Value-oriented Roadmap}, 
+      author={Jun Wang and Ninglun Gu and Kailai Zhang and Zijiao Zhang and Yelun Bao and Jin Yang and Xu Yin and Liwei Liu and Yihuan Liu and Pengyong Li and Gary G. Yen and Junchi Yan},
+      year={2025},
+      eprint={2508.18646},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2508.18646}, 
+}
+```
+
+
 ![](docs/llm-eval-tree-2025.png)
 
 ## Table of Contents
